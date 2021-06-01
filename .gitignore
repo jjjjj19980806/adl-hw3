@@ -1,0 +1,6 @@
+ckpt/
+data/
+wandb/
+*.zip
+transformers/
+__pycache__/
