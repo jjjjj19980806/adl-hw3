@@ -1,6 +1,14 @@
+
+# data
 ckpt/
 data/
+preds/
+runs/
 wandb/
-*.zip
 transformers/
+*.zip
+
+# caches
+*.egg-info/
+.lock
 __pycache__/
